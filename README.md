@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm deeply passionate about cybersecurity and stri
 ## About Me
 
 - 🔭 I’m currently working on enhancing my skills in both software engineering and cybersecurity.
-- 🌱 I’m currently learning Snort & Wazuh.
+- 🌱 I’m currently learning Crowdstrike, Snort & Wazuh.
 - 👯 I’m looking to collaborate on open source projects related to cybersecurity or software development.
 - 💬 Ask me about anything related to software engineering, cybersecurity, or tech in general!
 - 📫 How to reach me: nkemsileslie.netlify.app or DM me on twitter
@@ -32,7 +32,7 @@ Welcome to my GitHub profile! I'm deeply passionate about cybersecurity and stri
 ## Find Me Online
 
 - nkemsileslie.netlify.app
-- @CyberQueenlesly
+- @Cyberlesly
 - [www.linkedin.com/in/nkemsinachionyekwuluje/]
 
 Feel free to reach out and connect! I'm always open to interesting discussions and collaborations.
